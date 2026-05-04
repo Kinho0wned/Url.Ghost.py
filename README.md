@@ -15,6 +15,6 @@
 
 ## ⚙️ Instalação
 ```bash
-git clone [https://github.com/Kinho0wned](https://github.com/Kinho0wned/gopher_ghost.py/tree/main)
+git clone https://github.com/Kinho0wned/Url.Ghost.py/tree/main
 cd GopherGhost
 pip install -r requirements.txt
