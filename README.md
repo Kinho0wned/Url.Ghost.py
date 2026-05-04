@@ -12,7 +12,8 @@
 - 🕷️ **Surface Crawler:** Extrai endpoints e links diretamente do código-fonte.
 - 🛡️ **Stealth Logic:** Filtros para evitar falsos positivos de redirecionamento.
 - 💾 **Auto-Save:** Resultados salvos automaticamente na pasta `results/`.
-
+- 📊 Relatórios Automáticos: Gera um arquivo HTML formatado na pasta results/ com todos os achados do scan.
+  
 ## ⚙️ Instalação
 ```bash
 git clone https://github.com/Kinho0wned/Url.Ghost.py
