@@ -1,1 +1,20 @@
-# gopher_ghost.py
+
+
+# 👻 Gopher Ghost - Elite Edition v3.5
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![Security](https://img.shields.io/badge/Security-Offensive-red)
+
+**Gopher Ghost** é uma ferramenta de reconhecimento (recon) de alto desempenho focada em velocidade e simplicidade. Utiliza processamento assíncrono para identificar diretórios e arquivos expostos em aplicações web modernas.
+
+## ✨ Funcionalidades
+- 🚀 **Fuzzer Assíncrono:** Baseado em `aiohttp` para máxima velocidade.
+- 🕷️ **Surface Crawler:** Extrai endpoints e links diretamente do código-fonte.
+- 🛡️ **Stealth Logic:** Filtros para evitar falsos positivos de redirecionamento.
+- 💾 **Auto-Save:** Resultados salvos automaticamente na pasta `results/`.
+
+## ⚙️ Instalação
+```bash
+git clone https://github.com/Kinho0wned
+cd GopherGhost
+pip install -r requirements.txt
