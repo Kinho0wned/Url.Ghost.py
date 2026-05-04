@@ -92,7 +92,7 @@ class GopherEngine:
 def show_banner():
     os.system('clear' if os.name == 'posix' else 'cls')
     print(Fore.GREEN + "╔" + "═"*58 + "╗")
-    matrix_typing("║            GOPHER GHOST - ELITE EDITION v3.5             ║")
+    matrix_typing("║            URL. GHOST - ELITE EDITION v3.5             ║")
     print(Fore.GREEN + "╚" + "═"*58 + "╝")
     print(f"{Fore.RED}    [+] Developer: Kinho0Woner")
     print(f"{Fore.RED}    [+] Engine: Asynchronous I/O & Stealth Wordlist 2026")
