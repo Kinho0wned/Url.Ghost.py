@@ -1,11 +1,11 @@
 
 
-# 👻 Gopher Ghost - Elite Edition v3.5
+# 👻 Url. Ghost - Elite Edition v3.5
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Security](https://img.shields.io/badge/Security-Offensive-red)
 
-**Gopher Ghost** é uma ferramenta de reconhecimento (recon) de alto desempenho focada em velocidade e simplicidade. Utiliza processamento assíncrono para identificar diretórios e arquivos expostos em aplicações web modernas.
+**Url. Ghost** é uma ferramenta de reconhecimento (recon) de alto desempenho focada em velocidade e simplicidade. Utiliza processamento assíncrono para identificar diretórios e arquivos expostos em aplicações web modernas.
 
 ## ✨ Funcionalidades
 - 🚀 **Fuzzer Assíncrono:** Baseado em `aiohttp` para máxima velocidade.
