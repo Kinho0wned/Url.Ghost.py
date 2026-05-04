@@ -1,15 +1,7 @@
 Desenvolvido por Kinho0Woner 💀
 
----
-
-### 4. `.gitignore`
-Evita que arquivos temporários ou seus resultados pessoais subam para o GitHub.
-
 ```text
 results/*
 __pycache__/
 *.pyc
 .env
-
-
-end.
