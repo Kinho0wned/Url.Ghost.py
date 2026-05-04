@@ -1,6 +1,6 @@
 
 
-# 👻 Url. Ghost - Elite Edition v3.5
+# 👻 Url. Ghost - Elite Edition v3.6
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Security](https://img.shields.io/badge/Security-Offensive-red)
