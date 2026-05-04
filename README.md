@@ -16,13 +16,13 @@
 ## ⚙️ Instalação
 ```bash
 git clone https://github.com/Kinho0wned/Url.Ghost.py
-cd GopherGhost
+cd Url_Ghost
 pip install -r requirements.txt
 
 
 🚀 Como usar
 
 Bash
-python gopher_ghost.py
+python Url_Ghost.py
 set target <url>
 run
